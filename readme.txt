@@ -27,3 +27,10 @@ Next steps recommended are as follows:
 * Add sales data such as date of sales, discounts, advertising/sales used to set sales price
 
 Pending the improved data, you can assume that cars that are newer, in good or better condition, and have low odometer will have higher value with some preference to 4w drive. While cars that are salvage or poor condition will have lower value.
+
+
+
+
+Notebook is found here: https://github.com/jrryan1/PracticalApp11_1
+
+The CSV provide could not be upload to GITHUB at the time of check in.  Please use link here: https://mo-pcco.s3.us-east-1.amazonaws.com/BH-PCMLAI/module_11/practical_application_II_starter.zip and add the file to the data folder.
